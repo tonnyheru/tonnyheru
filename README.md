@@ -16,15 +16,7 @@
 
 Lulusan **S1 Teknik Informatika** dari Universitas Informatika dan Bisnis Indonesia (UNIBI) dengan IPK **3.65**. Mempunyai Pengalaman membangun sistem web production secara **end-to-end** menggunakan PHP, Laravel, MySQL, dan RESTful API.
 
-Selama magang di **Pengadilan Negeri Bale Bandung**, saya membangun **Aplikasi Layung Peradilan** — sistem administrasi peradilan yang aktif digunakan hingga saat ini, terintegrasi dengan API Disdukcapil.
 
-- 🔭 Sedang mengerjakan: **Personal Projects & Portfolio**
-- 🌱 Sedang belajar: **React, Node.js, Cloud Deployment**
-- 👯 Terbuka untuk: **Full-time, Freelance**
-- 📍 Lokasi: **Bandung, Jawa Barat**
-- ⚡ Fun fact: Saya membangun sistem production pertama saya saat magang!
-
----
 
 ## 🛠️ Tech Stack
 
