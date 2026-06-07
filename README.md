@@ -17,7 +17,6 @@
 Lulusan **S1 Teknik Informatika** dari Universitas Informatika dan Bisnis Indonesia (UNIBI) dengan IPK **3.65**. Mempunyai Pengalaman membangun sistem web production secara **end-to-end** menggunakan PHP, Laravel, MySQL, dan RESTful API.
 
 
-
 ## 🛠️ Tech Stack
 
 ### Language
@@ -65,9 +64,9 @@ Lulusan **S1 Teknik Informatika** dari Universitas Informatika dan Bisnis Indone
 
 <div align="center">
 
-![Tonny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonnyheru&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=DC143C&text_color=ffffff)
+![Tonny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonnyheru&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=DC143C&text_color=ffffff&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnyheru&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnyheru&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tonnyheru&theme=radical&hide_border=true&background=0d0d0d&ring=DC143C&fire=DC143C&currStreakLabel=DC143C)
 
@@ -92,7 +91,7 @@ Lulusan **S1 Teknik Informatika** dari Universitas Informatika dan Bisnis Indone
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=tonnyheru&color=DC143C&style=for-the-badge)
+![Profile Views](https://visitcount.itsvg.in/api?id=tonnyheru&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 ⭐ **Jangan lupa star repo yang kamu suka!**
 
